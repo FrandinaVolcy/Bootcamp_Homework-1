@@ -20,6 +20,7 @@ THEN I find a concise, descriptive title
 
 
 Mock Up
+
 ![01-html-css-git-homework-demo](https://github.com/FrandinaVolcy/Bootcamp_Homework-1/assets/129709685/70258890-657a-4f90-b539-e6d5876c3dbc)
 
 
