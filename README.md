@@ -1,11 +1,13 @@
 # Bootcamp_Homework-1
 
-User Story
+#User Story
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-Acceptance Criteria
+#Acceptance Criteria
+
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -19,12 +21,12 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
-Mock Up
+#Mock Up
 
 ![01-html-css-git-homework-demo](https://github.com/FrandinaVolcy/Bootcamp_Homework-1/assets/129709685/70258890-657a-4f90-b539-e6d5876c3dbc)
 
 
-Grading Requirements
+#Grading Requirements
 
 NOTE
 If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
