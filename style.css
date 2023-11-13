@@ -62,7 +62,6 @@ p {
     font-size: 16px;
 }
 
-/* Adding margin and a max-width to the image */
 .hero {
     height: 800px;
     width: 100%;
@@ -72,26 +71,22 @@ p {
     background-position: center;
 }
 
-/* Adding margin and a max-width to the image */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/* Adding margin and a max-width to the image */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-/* Adding margin and a max-width to the image */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Adding margin and a max-width to the image */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,13 +98,11 @@ p {
     background-color: #2589bd;
 }
 
-/* Adding margin and a max-width to the image */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* Adding margin and a max-width to the image */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -121,7 +114,6 @@ p {
     max-width: 150px;
 }
 
-/* Adding margin and a max-width to the image */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -131,7 +123,6 @@ p {
     color: #ffffff;
 }
 
-/* Adding margin and a max-width to the image */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -141,7 +132,6 @@ p {
     color: #ffffff;
 }
 
-/* Adding margin and a max-width to the image */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,40 +141,40 @@ p {
     color: #ffffff;
 }
 
-/* Adding margin and a max-width to the image */
+/* changing size to match the other images */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
-/* Adding margin and a max-width to the image */
+/* changing size to match the other images */
 .online-reputation-management img {
     max-height: 200px;
 }
 
-/* Adding margin and a max-width to the image */
+/* changing size to match the other images */
 .social-media-marketing img {
     max-height: 200px;
 }
 
-/* Adding margin and a max-width to the image */
+/* changing position and sizing */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* Adding margin and a max-width to the image */
+/* changing position and sizing */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* Adding margin and a max-width to the image */
+/* changing position and sizing */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* Adding margin and a max-width to the image */
+/* adding padding to the footer while changing text font and alignment */
 footer {
     padding: 30px;
     clear: both;
@@ -192,7 +182,7 @@ footer {
     text-align: center;
 }
 
-/* Adding margin and a max-width to the image */
+/* changed the header font size to 20px */
 footer h4 {
     font-size: 20px;
 }
